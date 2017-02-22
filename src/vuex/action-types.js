@@ -1,0 +1,1 @@
+export const INIT_PAGE_ACTION='INIT_PAGE_ACTION';
