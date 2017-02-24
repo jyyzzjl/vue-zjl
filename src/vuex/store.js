@@ -9,7 +9,7 @@ const debug = process.env.NODE_ENV !== 'production'
 
 export default new Vuex.Store({
     state: {//全局变量组件
-        count: 0
+        count: 3
     },
     modules: {
         index//引入模块
